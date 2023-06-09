@@ -34,7 +34,7 @@ We compile the model to fit the train sets and validation sets.
 
 ## PROGRAM:
 
-```
+```python
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
